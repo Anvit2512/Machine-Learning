@@ -1,0 +1,335 @@
+Category,Label,Column
+Ballard,0,City
+Baltimore,1,City
+Barstow,2,City
+Basingstoke Hants,3,City
+Baytown,4,City
+Beaverton,5,City
+Bell Gardens,6,City
+Bellevue,7,City
+Bellflower,8,City
+Bellingham,9,City
+Bendigo,10,City
+Berkeley,11,City
+Berks,12,City
+Berkshire,13,City
+Berlin,14,City
+Beverly Hills,15,City
+Billericay,16,City
+Billings,17,City
+Biloxi,18,City
+Birmingham,19,City
+Bluffton,20,City
+Bobigny,21,City
+Bonn,22,City
+Bothell,23,City
+Bottrop,24,City
+Boulogne-Billancourt,25,City
+Boulogne-sur-Mer,26,City
+Bountiful,27,City
+Bracknell,28,City
+Bradenton,29,City
+Braintree,30,City
+Branch,31,City
+Branson,32,City
+Braunschweig,33,City
+Bremerton,34,City
+Brisbane,35,City
+Burbank,36,City
+Burien,37,City
+Burlingame,38,City
+Burnaby,39,City
+Bury,40,City
+Byron,41,City
+Calgary,42,City
+Caloundra,43,City
+Camarillo,44,City
+Cambridge,45,City
+Campbellsville,46,City
+Canoga Park,47,City
+Carol Stream,48,City
+Carrollton,49,City
+Carson,50,City
+Casper,51,City
+Cedar City,52,City
+Cedar Park,53,City
+Central Valley,54,City
+Cergy,55,City
+Cerritos,56,City
+Chalk Riber,57,City
+Chandler,58,City
+Chantilly,59,City
+Charlotte,60,City
+Chatou,61,City
+Chehalis,62,City
+Cheltenham,63,City
+Cheyenne,64,City
+Chicago,65,City
+Chula Vista,66,City
+Cincinnati,67,City
+Citrus Heights,68,City
+City Of Commerce,69,City
+Clackamas,70,City
+Clarkston,71,City
+Clearwater,72,City
+Cliffside,73,City
+Cloverdale,74,City
+Coffs Harbour,75,City
+College Station,76,City
+Colma,77,City
+Colombes,78,City
+Colomiers,79,City
+Columbus,80,City
+Concord,81,City
+Coronado,82,City
+Corvallis,83,City
+Courbevoie,84,City
+Cranbourne,85,City
+Croix,86,City
+Daly City,87,City
+Darlinghurst,88,City
+Darmstadt,89,City
+Downey,90,City
+Drancy,91,City
+Dresden,92,City
+Duesseldorf,93,City
+Dunkerque,94,City
+East Brisbane,95,City
+Edmonds,96,City
+Eilenburg,97,City
+El Cajon,98,City
+Erlangen,99,City
+Esher-Molesey,100,City
+Essen,101,City
+Everett,102,City
+Findon,103,City
+Frankfurt,104,City
+Frankfurt am Main,105,City
+Fremont,106,City
+Gateshead,107,City
+Geelong,108,City
+Glendale,109,City
+Gloucestershire,110,City
+Gold Coast,111,City
+Goulburn,112,City
+Grevenbroich,113,City
+Grossmont,114,City
+Hamburg,115,City
+Haney,116,City
+Hannover,117,City
+Hawthorne,118,City
+Hervey Bay,119,City
+High Wycombe,120,City
+Hobart,121,City
+Hof,122,City
+Imperial Beach,123,City
+Ingolstadt,124,City
+Issaquah,125,City
+Kassel,126,City
+Kiel,127,City
+Kirkby,128,City
+Kirkland,129,City
+La Jolla,130,City
+Lake Oswego,131,City
+Lakewood,132,City
+Lancaster,133,City
+Lane Cove,134,City
+Langford,135,City
+Langley,136,City
+Lavender Bay,137,City
+Lebanon,138,City
+Leeds,139,City
+Leipzig,140,City
+Lemon Grove,141,City
+Les Ulis,142,City
+Lieusaint,143,City
+Lille,144,City
+Lincoln Acres,145,City
+Liverpool,146,City
+London,147,City
+Long Beach,148,City
+Los Angeles,149,City
+Lynnwood,150,City
+Maidenhead,151,City
+Malabar,152,City
+Marysville,153,City
+Matraville,154,City
+Melbourne,155,City
+Melton,156,City
+Metchosin,157,City
+Metz,158,City
+Mill Valley,159,City
+Milsons Point,160,City
+Milton Keynes,161,City
+Milwaukie,162,City
+Morangis,163,City
+Mühlheim,164,City
+München,165,City
+Münster,166,City
+N. Vancouver,167,City
+National City,168,City
+Neunkirchen,169,City
+Newcastle,170,City
+Newcastle upon Tyne,171,City
+Newport Beach,172,City
+Newton,173,City
+North Ryde,174,City
+North Sydney,175,City
+Novato,176,City
+Oak Bay,177,City
+Oakland,178,City
+Offenbach,179,City
+Olympia,180,City
+Oregon City,181,City
+Orleans,182,City
+Orly,183,City
+Oxford,184,City
+Oxon,185,City
+Paderborn,186,City
+Palo Alto,187,City
+Pantin,188,City
+Paris,189,City
+Paris La Defense,190,City
+Perth,191,City
+Peterborough,192,City
+Poing,193,City
+Port Hammond,194,City
+Port Macquarie,195,City
+Port Orchard,196,City
+Portland,197,City
+Puyallup,198,City
+Reading,199,City
+Redmond,200,City
+Redwood City,201,City
+Renton,202,City
+Rhodes,203,City
+Rockhampton,204,City
+Roissy en Brie,205,City
+Roncq,206,City
+Roubaix,207,City
+Royal Oak,208,City
+Runcorn,209,City
+Saarbrücken,210,City
+Saarlouis,211,City
+Saint Germain en Laye,212,City
+Saint Ouen,213,City
+Saint-Denis,214,City
+Salem,215,City
+Salzgitter,216,City
+Sammamish,217,City
+San Carlos,218,City
+San Diego,219,City
+San Francisco,220,City
+San Gabriel,221,City
+Santa Cruz,222,City
+Santa Monica,223,City
+Seaford,224,City
+Seattle,225,City
+Sedro Woolley,226,City
+Shawnee,227,City
+Silverwater,228,City
+Solingen,229,City
+Sooke,230,City
+South Melbourne,231,City
+Spokane,232,City
+Spring Valley,233,City
+Springwood,234,City
+St. Leonards,235,City
+Stoke-on-Trent,236,City
+Stuttgart,237,City
+Sulzbach Taunus,238,City
+Sunbury,239,City
+Suresnes,240,City
+Sydney,241,City
+Sèvres,242,City
+Tacoma,243,City
+Torrance,244,City
+Townsville,245,City
+Tremblay-en-France,246,City
+Vancouver,247,City
+Verrieres Le Buisson,248,City
+Versailles,249,City
+Victoria,250,City
+Villeneuve-d'Ascq,251,City
+W. Linn,252,City
+W. York,253,City
+Walla Walla,254,City
+Warrington,255,City
+Warrnambool,256,City
+Watford,257,City
+Werne,258,City
+West Covina,259,City
+West Sussex,260,City
+Westminster,261,City
+Wokingham,262,City
+Wollongong,263,City
+Woodburn,264,City
+Woodland Hills,265,City
+Woolston,266,City
+Yakima,267,City
+York,268,City
+Alabama,0,StateProvinceName
+Alberta,1,StateProvinceName
+Arizona,2,StateProvinceName
+Bayern,3,StateProvinceName
+Brandenburg,4,StateProvinceName
+British Columbia,5,StateProvinceName
+California,6,StateProvinceName
+Charente-Maritime,7,StateProvinceName
+England,8,StateProvinceName
+Essonne,9,StateProvinceName
+Florida,10,StateProvinceName
+Garonne (Haute),11,StateProvinceName
+Georgia,12,StateProvinceName
+Hamburg,13,StateProvinceName
+Hauts de Seine,14,StateProvinceName
+Hessen,15,StateProvinceName
+Illinois,16,StateProvinceName
+Kentucky,17,StateProvinceName
+Loir et Cher,18,StateProvinceName
+Loiret,19,StateProvinceName
+Maryland,20,StateProvinceName
+Massachusetts,21,StateProvinceName
+Minnesota,22,StateProvinceName
+Mississippi,23,StateProvinceName
+Missouri,24,StateProvinceName
+Montana,25,StateProvinceName
+Moselle,26,StateProvinceName
+New South Wales,27,StateProvinceName
+New York,28,StateProvinceName
+Nord,29,StateProvinceName
+Nordrhein-Westfalen,30,StateProvinceName
+North Carolina,31,StateProvinceName
+Ohio,32,StateProvinceName
+Ontario,33,StateProvinceName
+Oregon,34,StateProvinceName
+Pas de Calais,35,StateProvinceName
+Queensland,36,StateProvinceName
+Saarland,37,StateProvinceName
+Seine (Paris),38,StateProvinceName
+Seine Saint Denis,39,StateProvinceName
+Seine et Marne,40,StateProvinceName
+Somme,41,StateProvinceName
+South Australia,42,StateProvinceName
+South Carolina,43,StateProvinceName
+Tasmania,44,StateProvinceName
+Texas,45,StateProvinceName
+Utah,46,StateProvinceName
+Val d'Oise,47,StateProvinceName
+Val de Marne,48,StateProvinceName
+Victoria,49,StateProvinceName
+Virginia,50,StateProvinceName
+Washington,51,StateProvinceName
+Wyoming,52,StateProvinceName
+Yveline,53,StateProvinceName
+Clerical,0,Occupation
+Management,1,Occupation
+Manual,2,Occupation
+Professional,3,Occupation
+Skilled Manual,4,Occupation
+F,0,Gender
+M,1,Gender
+M,0,MaritalStatus
+S,1,MaritalStatus
+0,0,HomeOwnerFlag
+1,1,HomeOwnerFlag
